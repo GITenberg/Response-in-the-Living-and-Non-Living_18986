@@ -1,0 +1,33 @@
+_repo: Response-in-the-Living-and-Non-Living_18986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bose, Jagadis Chandra
+    aliases:
+    - Bose, Sir Jagadis Chandra
+    - Bose, J. C.
+    - Bose, Sir Jagadis Chunder
+    birthdate: 1858
+    deathdate: 1937
+    gutenberg_agent_id: '8388'
+    url: http://www.gutenberg.org/2009/agents/8388
+    wikipedia: http://en.wikipedia.org/wiki/Jagdish_Chandra_Bose
+description: ''
+gutenberg_issued: '2006-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fatigue'
+- !lcc 'QH'
+- !lcsh 'Electrophysiology'
+- !lcsh 'Irritability'
+title: Response in the Living and Non-Living
+url: http://www.gutenberg.org/ebooks/18986
