@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8388
     wikipedia: http://en.wikipedia.org/wiki/Jagdish_Chandra_Bose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18986#Response-in-the-Living-and-Non-Living
 gutenberg_issued: '2006-08-03'
 gutenberg_type: Text
 identifiers:
